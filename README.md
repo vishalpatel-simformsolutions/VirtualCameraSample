@@ -1,4 +1,4 @@
-# VirtualCameraSample
+# VirtualCameraSample - demo
 
 ## Overview
 
