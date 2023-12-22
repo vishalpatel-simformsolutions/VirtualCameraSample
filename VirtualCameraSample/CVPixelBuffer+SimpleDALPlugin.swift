@@ -5,7 +5,7 @@ extension CVPixelBuffer {
     static func create(size: CGSize) -> CVPixelBuffer? {
         var pixelBuffer: CVPixelBuffer?
         let options = [
-            kCVPixelBufferCGImageCompatibilityKey as String: true,
+            kCVPixelBufferCGImageCom as String: true,
             kCVPixelBufferCGBitmapContextCompatibilityKey as String: true,
         ] as [String: Any]
 
